@@ -346,13 +346,10 @@ a {
   background-color: #2e2f42;
 }
 
-.logo footer-logo {
-  display: inline-block;
-  margin-bottom: 16px;
-}
-
 .footer-logo .logo-part {
   color: #f4f4fd;
+  display: inline-block;
+  margin-bottom: 16px;
 }
 
 .footer-text {
