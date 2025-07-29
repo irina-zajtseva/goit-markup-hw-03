@@ -348,12 +348,14 @@ a {
 
 .footer-logo .logo-part {
   color: #f4f4fd;
+}
+
+.footer-logo {
   display: inline-block;
   margin-bottom: 16px;
 }
 
 .footer-text {
-  margin-top: 16px;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
